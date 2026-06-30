@@ -79,7 +79,7 @@ export default function Home() {
         </p>
 
         <div className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-sm font-semibold text-primary tracking-wide">
-          ✨ Şimdi ve sonsuza kadar ücretsiz
+          ✨ ŞİMDİ VE SONSUZA KADAR ÜCRETSİZ
         </div>
 
         <div className="flex flex-col sm:flex-row gap-4 mt-4 w-full sm:w-auto justify-center">
