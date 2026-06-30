@@ -1,13 +1,31 @@
+'use client';
+
+import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ShieldCheck, EyeOff, Sparkles, ArrowRight, Activity, Search, ShieldAlert } from 'lucide-react';
 
 export default function Home() {
+  const [coords, setCoords] = useState({ x: 50, y: 50 });
+
+  useEffect(() => {
+    const handleMouseMove = (e: MouseEvent) => {
+      const x = (e.clientX / window.innerWidth) * 100;
+      const y = (e.clientY / window.innerHeight) * 100;
+      setCoords({ x, y });
+    };
+
+    window.addEventListener('mousemove', handleMouseMove);
+    return () => window.removeEventListener('mousemove', handleMouseMove);
+  }, []);
+
   return (
-    <div className="relative min-h-screen flex flex-col justify-between overflow-hidden bg-background">
-      {/* Background Glows */}
-      <div className="absolute top-[-10%] left-[-10%] w-[50%] h-[50%] rounded-full bg-primary/10 blur-[120px] pointer-events-none" />
-      <div className="absolute bottom-[-10%] right-[-10%] w-[50%] h-[50%] rounded-full bg-purple-500/5 blur-[120px] pointer-events-none" />
+    <div 
+      className="relative min-h-screen flex flex-col justify-between overflow-hidden transition-all duration-300"
+      style={{
+        background: `radial-gradient(circle at ${coords.x}% ${coords.y}%, var(--gradient-bg-start) 0%, var(--gradient-bg-end) 100%)`
+      }}
+    >
 
       {/* Navbar */}
       <header className="sticky top-0 z-50 glass-panel border-b border-border/50 py-4 px-6 md:px-12 flex justify-between items-center">
