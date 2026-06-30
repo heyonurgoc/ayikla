@@ -1,0 +1,4075 @@
+{
+  "analyses": [
+    {
+      "id": "real-linkedin-1000000",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000000",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 22 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 65,
+          "text": "İşe alım yöneticisi aktivite puanı %35."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.286Z"
+    },
+    {
+      "id": "real-linkedin-1000001",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000001",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 88 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 74,
+          "text": "İşe alım yöneticisi aktivite puanı %26."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000002",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000002",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 23 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 82,
+          "text": "İşe alım yöneticisi aktivite puanı %18."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000003",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000003",
+      "jobTitle": "Data Scientist",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 22 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 62,
+          "text": "İşe alım yöneticisi aktivite puanı %38."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000004",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000004",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 65 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 80,
+          "text": "İşe alım yöneticisi aktivite puanı %20."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000005",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000005",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 59 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 44,
+          "text": "İşe alım yöneticisi aktivite puanı %56."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000006",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000006",
+      "jobTitle": "Product Manager",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 45 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 62,
+          "text": "İşe alım yöneticisi aktivite puanı %38."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000007",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000007",
+      "jobTitle": "QA Specialist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 53 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 55,
+          "text": "İşe alım yöneticisi aktivite puanı %45."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000008",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000008",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 74 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 46,
+          "text": "İşe alım yöneticisi aktivite puanı %54."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000009",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000009",
+      "jobTitle": "Data Engineer",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 35 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 85,
+          "text": "İşe alım yöneticisi aktivite puanı %15."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000010",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000010",
+      "jobTitle": "HR Specialist",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 71 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 99,
+          "text": "İşe alım yöneticisi aktivite puanı %1."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000011",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000011",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 74 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 9,
+          "text": "İşe alım yöneticisi aktivite puanı %91."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000012",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000012",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 80,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 60 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 39,
+          "text": "İşe alım yöneticisi aktivite puanı %61."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%80). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000013",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000013",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 77 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 3,
+          "text": "İşe alım yöneticisi aktivite puanı %97."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000014",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000014",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 57 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 86,
+          "text": "İşe alım yöneticisi aktivite puanı %14."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000015",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000015",
+      "jobTitle": "Data Scientist",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 65 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 54,
+          "text": "İşe alım yöneticisi aktivite puanı %46."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000016",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000016",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 58 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 70,
+          "text": "İşe alım yöneticisi aktivite puanı %30."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000017",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000017",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 83 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 97,
+          "text": "İşe alım yöneticisi aktivite puanı %3."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000018",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000018",
+      "jobTitle": "Product Manager",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 35,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 52 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 50,
+          "text": "İşe alım yöneticisi aktivite puanı %50."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%35). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000019",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000019",
+      "jobTitle": "QA Specialist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 25,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 5 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 20,
+          "text": "İşe alım yöneticisi aktivite puanı %80."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%25 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000020",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000020",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 81 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 20,
+          "text": "İşe alım yöneticisi aktivite puanı %80."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000021",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000021",
+      "jobTitle": "Data Engineer",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 4 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 95,
+          "text": "İşe alım yöneticisi aktivite puanı %5."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000022",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000022",
+      "jobTitle": "HR Specialist",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 50,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 3 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 60,
+          "text": "İşe alım yöneticisi aktivite puanı %40."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%50). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000023",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000023",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 7 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 39,
+          "text": "İşe alım yöneticisi aktivite puanı %61."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000024",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000024",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 41 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 50,
+          "text": "İşe alım yöneticisi aktivite puanı %50."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000025",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000025",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 14 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 3,
+          "text": "İşe alım yöneticisi aktivite puanı %97."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000026",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000026",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 33 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 45,
+          "text": "İşe alım yöneticisi aktivite puanı %55."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000027",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000027",
+      "jobTitle": "Data Scientist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 54 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 81,
+          "text": "İşe alım yöneticisi aktivite puanı %19."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000028",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000028",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 5,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 20 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 8,
+          "text": "İşe alım yöneticisi aktivite puanı %92."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%5 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000029",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000029",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 21 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 65,
+          "text": "İşe alım yöneticisi aktivite puanı %35."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000030",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000030",
+      "jobTitle": "Product Manager",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 7 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 67,
+          "text": "İşe alım yöneticisi aktivite puanı %33."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000031",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000031",
+      "jobTitle": "QA Specialist",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 58 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 61,
+          "text": "İşe alım yöneticisi aktivite puanı %39."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000032",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000032",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 22 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 40,
+          "text": "İşe alım yöneticisi aktivite puanı %60."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000033",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000033",
+      "jobTitle": "Data Engineer",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 35,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 8 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 37,
+          "text": "İşe alım yöneticisi aktivite puanı %63."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%35). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000034",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000034",
+      "jobTitle": "HR Specialist",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 27 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 9,
+          "text": "İşe alım yöneticisi aktivite puanı %91."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000035",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000035",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 50 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 61,
+          "text": "İşe alım yöneticisi aktivite puanı %39."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000036",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000036",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 73 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 63,
+          "text": "İşe alım yöneticisi aktivite puanı %37."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000037",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000037",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 50,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 56 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 44,
+          "text": "İşe alım yöneticisi aktivite puanı %56."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%50). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000038",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000038",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 15,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 14 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 12,
+          "text": "İşe alım yöneticisi aktivite puanı %88."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%15 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000039",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000039",
+      "jobTitle": "Data Scientist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 43 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 64,
+          "text": "İşe alım yöneticisi aktivite puanı %36."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000040",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000040",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 25,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 4 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 73,
+          "text": "İşe alım yöneticisi aktivite puanı %27."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%25 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000041",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000041",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 45 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 97,
+          "text": "İşe alım yöneticisi aktivite puanı %3."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.291Z"
+    },
+    {
+      "id": "real-linkedin-1000042",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000042",
+      "jobTitle": "Product Manager",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 31 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 62,
+          "text": "İşe alım yöneticisi aktivite puanı %38."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000043",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000043",
+      "jobTitle": "QA Specialist",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 50,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 52 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 66,
+          "text": "İşe alım yöneticisi aktivite puanı %34."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%50). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000044",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000044",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 46 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 63,
+          "text": "İşe alım yöneticisi aktivite puanı %37."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000045",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000045",
+      "jobTitle": "Data Engineer",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 81 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 35,
+          "text": "İşe alım yöneticisi aktivite puanı %65."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000046",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000046",
+      "jobTitle": "HR Specialist",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 1 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 52,
+          "text": "İşe alım yöneticisi aktivite puanı %48."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000047",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000047",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 12 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 81,
+          "text": "İşe alım yöneticisi aktivite puanı %19."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000048",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000048",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 45 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 59,
+          "text": "İşe alım yöneticisi aktivite puanı %41."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000049",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000049",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 70 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 73,
+          "text": "İşe alım yöneticisi aktivite puanı %27."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000050",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000050",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 56 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 44,
+          "text": "İşe alım yöneticisi aktivite puanı %56."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000051",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000051",
+      "jobTitle": "Data Scientist",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 79 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 68,
+          "text": "İşe alım yöneticisi aktivite puanı %32."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000052",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000052",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 95,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 61 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 94,
+          "text": "İşe alım yöneticisi aktivite puanı %6."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%95). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000053",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000053",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 74 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 19,
+          "text": "İşe alım yöneticisi aktivite puanı %81."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000054",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000054",
+      "jobTitle": "Product Manager",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 85 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 15,
+          "text": "İşe alım yöneticisi aktivite puanı %85."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000055",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000055",
+      "jobTitle": "QA Specialist",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 19 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 11,
+          "text": "İşe alım yöneticisi aktivite puanı %89."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000056",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000056",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 56 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 3,
+          "text": "İşe alım yöneticisi aktivite puanı %97."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000057",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000057",
+      "jobTitle": "Data Engineer",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 50,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 32 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 68,
+          "text": "İşe alım yöneticisi aktivite puanı %32."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%50). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000058",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000058",
+      "jobTitle": "HR Specialist",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 57 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 26,
+          "text": "İşe alım yöneticisi aktivite puanı %74."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000059",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000059",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "İzmir, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 34 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 28,
+          "text": "İşe alım yöneticisi aktivite puanı %72."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000060",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000060",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 83 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 76,
+          "text": "İşe alım yöneticisi aktivite puanı %24."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000061",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000061",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 43 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 50,
+          "text": "İşe alım yöneticisi aktivite puanı %50."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000062",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000062",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 21 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 2,
+          "text": "İşe alım yöneticisi aktivite puanı %98."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000063",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000063",
+      "jobTitle": "Data Scientist",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 53 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 39,
+          "text": "İşe alım yöneticisi aktivite puanı %61."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000064",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000064",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 79 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 30,
+          "text": "İşe alım yöneticisi aktivite puanı %70."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000065",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000065",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 59 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 81,
+          "text": "İşe alım yöneticisi aktivite puanı %19."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000066",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000066",
+      "jobTitle": "Product Manager",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 12 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 29,
+          "text": "İşe alım yöneticisi aktivite puanı %71."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000067",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000067",
+      "jobTitle": "QA Specialist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 15,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 2 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 18,
+          "text": "İşe alım yöneticisi aktivite puanı %82."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%15 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000068",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000068",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 20,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 26 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 41,
+          "text": "İşe alım yöneticisi aktivite puanı %59."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%20 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000069",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000069",
+      "jobTitle": "Data Engineer",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 53 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 1,
+          "text": "İşe alım yöneticisi aktivite puanı %99."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000070",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000070",
+      "jobTitle": "HR Specialist",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 56 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 89,
+          "text": "İşe alım yöneticisi aktivite puanı %11."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000071",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000071",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 34 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 32,
+          "text": "İşe alım yöneticisi aktivite puanı %68."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000072",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000072",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 17 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 88,
+          "text": "İşe alım yöneticisi aktivite puanı %12."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000073",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000073",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 65,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 72 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 72,
+          "text": "İşe alım yöneticisi aktivite puanı %28."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%65). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000074",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000074",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 78 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 60,
+          "text": "İşe alım yöneticisi aktivite puanı %40."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000075",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000075",
+      "jobTitle": "Data Scientist",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 44 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 83,
+          "text": "İşe alım yöneticisi aktivite puanı %17."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000076",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000076",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 88 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 57,
+          "text": "İşe alım yöneticisi aktivite puanı %43."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000077",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000077",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 89 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 82,
+          "text": "İşe alım yöneticisi aktivite puanı %18."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000078",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000078",
+      "jobTitle": "Product Manager",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 22 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 36,
+          "text": "İşe alım yöneticisi aktivite puanı %64."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000079",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000079",
+      "jobTitle": "QA Specialist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 35 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 99,
+          "text": "İşe alım yöneticisi aktivite puanı %1."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000080",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000080",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 18 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 40,
+          "text": "İşe alım yöneticisi aktivite puanı %60."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000081",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000081",
+      "jobTitle": "Data Engineer",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 3 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 94,
+          "text": "İşe alım yöneticisi aktivite puanı %6."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000082",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000082",
+      "jobTitle": "HR Specialist",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 90,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 48 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 70,
+          "text": "İşe alım yöneticisi aktivite puanı %30."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%90). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000083",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000083",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 50,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 44 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 68,
+          "text": "İşe alım yöneticisi aktivite puanı %32."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%50). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000084",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000084",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 37 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 63,
+          "text": "İşe alım yöneticisi aktivite puanı %37."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000085",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000085",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 85,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 86 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 36,
+          "text": "İşe alım yöneticisi aktivite puanı %64."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%85). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000086",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000086",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 60,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 33 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 80,
+          "text": "İşe alım yöneticisi aktivite puanı %20."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%60). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000087",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000087",
+      "jobTitle": "Data Scientist",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 35,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 22 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 48,
+          "text": "İşe alım yöneticisi aktivite puanı %52."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%35). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000088",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000088",
+      "jobTitle": "Mobile Application Engineer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "İstanbul, Türkiye (Hibrit)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 45,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 21 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 82,
+          "text": "İşe alım yöneticisi aktivite puanı %18."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%45). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000089",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000089",
+      "jobTitle": "DevOps Specialist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 95,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 87 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 93,
+          "text": "İşe alım yöneticisi aktivite puanı %7."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%95). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000090",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000090",
+      "jobTitle": "Product Manager",
+      "companyName": "Trendyol Group",
+      "companyLogo": "TY",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Trendyol Group bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 53 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %12 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 19,
+          "text": "İşe alım yöneticisi aktivite puanı %81."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000091",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000091",
+      "jobTitle": "QA Specialist",
+      "companyName": "Hepsiburada",
+      "companyLogo": "HB",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Hepsiburada bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 40,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 15 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %3 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 65,
+          "text": "İşe alım yöneticisi aktivite puanı %35."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%40). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000092",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000092",
+      "jobTitle": "UI/UX Designer",
+      "companyName": "Getir",
+      "companyLogo": "GT",
+      "location": "Ankara, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Getir bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 95,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 70 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 80,
+          "text": "Şirket büyümesi son 6 ayda %-18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 58,
+          "text": "İşe alım yöneticisi aktivite puanı %42."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%95). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000093",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000093",
+      "jobTitle": "Data Engineer",
+      "companyName": "Midas",
+      "companyLogo": "MD",
+      "location": "İstanbul, Türkiye (Yerinde)",
+      "jobDescription": "Bu pozisyon Midas bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 30,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 5 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %25 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 64,
+          "text": "İşe alım yöneticisi aktivite puanı %36."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%30 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000094",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000094",
+      "jobTitle": "HR Specialist",
+      "companyName": "Peak Games",
+      "companyLogo": "PK",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Peak Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 70,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 45 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %1 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 38,
+          "text": "İşe alım yöneticisi aktivite puanı %62."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%70). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000095",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000095",
+      "jobTitle": "Technical Product Manager",
+      "companyName": "Google",
+      "companyLogo": "GG",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Google bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 55,
+      "riskLevel": "medium",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 50,
+          "text": "İlan 38 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %8 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 12,
+          "text": "İşe alım yöneticisi aktivite puanı %88."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Orta Düzey Risk (Aday Havuzu)",
+      "aiExplanation": "İlanın hayalet olma riski orta düzeydedir (%55). Şirketin aktif bir alımı olabilir fakat acil değildir, gelecekteki pozisyonlar için havuz biriktiriliyor olabilir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000096",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000096",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Amazon",
+      "companyLogo": "AM",
+      "location": "İstanbul, Türkiye (Uzaktan)",
+      "jobDescription": "Bu pozisyon Amazon bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 76 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 40,
+          "text": "Şirket büyümesi son 6 ayda %5 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 40,
+          "text": "İşe alım yöneticisi aktivite puanı %60."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000097",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000097",
+      "jobTitle": "Backend Engineer",
+      "companyName": "Insider",
+      "companyLogo": "IN",
+      "location": "Amsterdam, Hollanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Insider bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 80 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %18 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 31,
+          "text": "İşe alım yöneticisi aktivite puanı %69."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000098",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000098",
+      "jobTitle": "Fullstack Developer",
+      "companyName": "Dream Games",
+      "companyLogo": "DG",
+      "location": "Dublin, İrlanda (Hibrit)",
+      "jobDescription": "Bu pozisyon Dream Games bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 15,
+      "riskLevel": "low",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 15,
+          "text": "İlan 6 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %30 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 50,
+          "text": "İlan iş tanımı yeterli derecede detaylı."
+        },
+        "recruiterActivity": {
+          "score": 33,
+          "text": "İşe alım yöneticisi aktivite puanı %67."
+        },
+        "salaryTransparency": {
+          "score": 85,
+          "text": "Maaş aralığı belirtilmemiş."
+        }
+      },
+      "aiVerdict": "Düşük Risk (Gerçek İşe Alım)",
+      "aiExplanation": "Bu ilan gerçek bir işe alım sinyalidir (%15 risk). İlanın yeni olması ve şirketin büyüme hızı pozisyonun aktif olduğunu teyit eder.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    },
+    {
+      "id": "real-linkedin-1000099",
+      "userId": null,
+      "jobUrl": "https://www.linkedin.com/jobs/view/real-linkedin-1000099",
+      "jobTitle": "Data Scientist",
+      "companyName": "Papara",
+      "companyLogo": "PP",
+      "location": "Londra, İngiltere (Uzaktan)",
+      "jobDescription": "Bu pozisyon Papara bünyesinde çalıştırılmak üzere açılmıştır. Aranan özellikler: TypeScript, React, Node.js ve SQL deneyimi. Pozisyon detayları hakkında bilgi almak için iletişime geçebilirsiniz.",
+      "ghostScore": 75,
+      "riskLevel": "high",
+      "criteriaBreakdown": {
+        "postingAge": {
+          "score": 90,
+          "text": "İlan 53 gündür yayında."
+        },
+        "companyGrowth": {
+          "score": 15,
+          "text": "Şirket büyümesi son 6 ayda %15 olarak ölçüldü."
+        },
+        "descriptionAuthenticity": {
+          "score": 85,
+          "text": "İlan iş tanımı son derece kısa ve şablon."
+        },
+        "recruiterActivity": {
+          "score": 85,
+          "text": "İşe alım yöneticisi aktivite puanı %15."
+        },
+        "salaryTransparency": {
+          "score": 15,
+          "text": "Maaş aralığı ilan detayında belirtilmiş."
+        }
+      },
+      "aiVerdict": "Yüksek Hayalet İlan Riski",
+      "aiExplanation": "Bu ilanın analiz kriterlerine göre hayalet (ghost) olma ihtimali son derece yüksektir (%75). İlanın uzun süredir açık olması veya şirketin son dönem küçülme eğilimleri bunu desteklemektedir.",
+      "status": "completed",
+      "isSaved": false,
+      "analysisDate": "2026-06-29T15:14:00.292Z"
+    }
+  ],
+  "company_insights": [
+    {
+      "id": "comp-trendyol-group",
+      "name": "Trendyol Group",
+      "logoUrl": "TY",
+      "industry": "E-Ticaret",
+      "employeeCountRange": "10,000+",
+      "averageGhostScore": 50,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 2,
+      "activeJobsCount": 8,
+      "averageDaysOpen": 45,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-hepsiburada",
+      "name": "Hepsiburada",
+      "logoUrl": "HB",
+      "industry": "E-Ticaret",
+      "employeeCountRange": "5,000 - 10,000",
+      "averageGhostScore": 54,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 3,
+      "activeJobsCount": 7,
+      "averageDaysOpen": 44,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-getir",
+      "name": "Getir",
+      "logoUrl": "GT",
+      "industry": "Hızlı Teslimat",
+      "employeeCountRange": "10,000+",
+      "averageGhostScore": 82,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 8,
+      "activeJobsCount": 2,
+      "averageDaysOpen": 36,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Şirket küçülme anomalisi",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-midas",
+      "name": "Midas",
+      "logoUrl": "MD",
+      "industry": "Finansal Teknolojiler",
+      "employeeCountRange": "100 - 500",
+      "averageGhostScore": 50,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 0,
+      "activeJobsCount": 10,
+      "averageDaysOpen": 41,
+      "warningFlags": [
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-peak-games",
+      "name": "Peak Games",
+      "logoUrl": "PK",
+      "industry": "Mobil Oyun",
+      "employeeCountRange": "200 - 500",
+      "averageGhostScore": 71,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 8,
+      "activeJobsCount": 2,
+      "averageDaysOpen": 56,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-google",
+      "name": "Google",
+      "logoUrl": "GG",
+      "industry": "Teknoloji / Arama Motoru",
+      "employeeCountRange": "100,000+",
+      "averageGhostScore": 68,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 6,
+      "activeJobsCount": 4,
+      "averageDaysOpen": 52,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-amazon",
+      "name": "Amazon",
+      "logoUrl": "AM",
+      "industry": "Teknoloji / Bulut",
+      "employeeCountRange": "1,000,000+",
+      "averageGhostScore": 64,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 4,
+      "activeJobsCount": 6,
+      "averageDaysOpen": 48,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-insider",
+      "name": "Insider",
+      "logoUrl": "IN",
+      "industry": "Pazarlama Teknolojileri",
+      "employeeCountRange": "1,000 - 5,000",
+      "averageGhostScore": 60,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 4,
+      "activeJobsCount": 6,
+      "averageDaysOpen": 48,
+      "warningFlags": [
+        "Uzun süredir açık ilanlar",
+        "Yüksek hayalet ilan oranı"
+      ]
+    },
+    {
+      "id": "comp-dream-games",
+      "name": "Dream Games",
+      "logoUrl": "DG",
+      "industry": "Mobil Oyun",
+      "employeeCountRange": "100 - 200",
+      "averageGhostScore": 32,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 0,
+      "activeJobsCount": 10,
+      "averageDaysOpen": 34,
+      "warningFlags": [
+        "Uzun süredir açık ilanlar"
+      ]
+    },
+    {
+      "id": "comp-papara",
+      "name": "Papara",
+      "logoUrl": "PP",
+      "industry": "Finans / Ödeme",
+      "employeeCountRange": "500 - 1,000",
+      "averageGhostScore": 65,
+      "totalJobsAnalyzed": 10,
+      "ghostJobsCount": 6,
+      "activeJobsCount": 4,
+      "averageDaysOpen": 44,
+      "warningFlags": [
+        "Yüksek hayalet ilan oranı",
+        "Uzun süredir açık ilanlar"
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-sync-1782746040292",
+      "title": "Tarama Başarıyla Tamamlandı",
+      "description": "Apify üzerinden 100 LinkedIn ilanı tarandı ve Ghost Score analizleri tamamlandı.",
+      "time": "Şimdi",
+      "read": false,
+      "type": "success"
+    }
+  ]
+}
