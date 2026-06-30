@@ -96,6 +96,25 @@ export class SupabaseAnalysisService implements IAnalysisService {
       throw new Error('Supabase client is not configured.');
     }
 
+    // 1. Check database cache before doing anything
+    if (url) {
+      try {
+        const { data: existing, error: findError } = await supabase
+          .from('analyses')
+          .select('*')
+          .eq('job_url', url)
+          .order('analysis_date', { ascending: false })
+          .limit(1);
+
+        if (!findError && existing && existing.length > 0) {
+          console.log('Found cached analysis for URL:', url);
+          return this.mapDatabaseToAnalysis(existing[0]);
+        }
+      } catch (err) {
+        console.warn('Database cache check failed:', err);
+      }
+    }
+
     let finalAnalysis: Analysis | null = null;
 
     try {
