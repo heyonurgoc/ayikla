@@ -35,7 +35,8 @@ import {
   Moon,
   ShieldCheck,
   Coffee,
-  Briefcase
+  Briefcase,
+  Mail
 } from 'lucide-react';
 
 export default function DashboardLayout({
@@ -53,6 +54,7 @@ export default function DashboardLayout({
   const [loading, setLoading] = useState(true);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const [contactOpen, setContactOpen] = useState(false);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -116,6 +118,14 @@ export default function DashboardLayout({
     { name: 'Kahve Ismarla', href: '/kahve-ismarla', icon: Coffee },
     { name: 'Profil', href: '/profil', icon: UserIcon },
     { name: 'Ayarlar', href: '/ayarlar', icon: Settings },
+    { 
+      name: 'İletişim', 
+      onClick: () => {
+        setContactOpen(true);
+        setMobileMenuOpen(false);
+      }, 
+      icon: Mail 
+    },
   ];
 
   if (loading) {
@@ -163,12 +173,26 @@ export default function DashboardLayout({
         {/* Navigation Items */}
         <nav className="flex-1 px-4 py-6 flex flex-col gap-1.5 overflow-y-auto">
           {navigationItems.map((item) => {
-            const isActive = pathname === item.href;
             const Icon = item.icon;
+            if (item.onClick) {
+              return (
+                <button
+                  key={item.name}
+                  onClick={item.onClick}
+                  className="flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all group text-muted-foreground hover:bg-secondary/65 hover:text-foreground w-full text-left cursor-pointer border-none bg-transparent"
+                >
+                  <div className="flex items-center gap-3">
+                    <Icon className="h-4 w-4 transition-transform group-hover:scale-110 text-muted-foreground group-hover:text-foreground" />
+                    {item.name}
+                  </div>
+                </button>
+              );
+            }
+            const isActive = pathname === item.href;
             return (
               <Link
                 key={item.name}
-                href={item.href}
+                href={item.href || '#'}
                 className={`flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all group ${
                   isActive
                     ? 'bg-gradient-premium text-white shadow-md shadow-primary/15'
@@ -254,12 +278,26 @@ export default function DashboardLayout({
             {/* Mobile Navigation */}
             <nav className="flex-1 px-4 py-6 flex flex-col gap-1.5 overflow-y-auto">
               {navigationItems.map((item) => {
-                const isActive = pathname === item.href;
                 const Icon = item.icon;
+                if (item.onClick) {
+                  return (
+                    <button
+                      key={item.name}
+                      onClick={item.onClick}
+                      className="flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all group text-muted-foreground hover:bg-secondary/65 hover:text-foreground w-full text-left cursor-pointer border-none bg-transparent"
+                    >
+                      <div className="flex items-center gap-3">
+                        <Icon className="h-4 w-4" />
+                        {item.name}
+                      </div>
+                    </button>
+                  );
+                }
+                const isActive = pathname === item.href;
                 return (
                   <Link
                     key={item.name}
-                    href={item.href}
+                    href={item.href || '#'}
                     onClick={() => setMobileMenuOpen(false)}
                     className={`flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all ${
                       isActive
@@ -359,6 +397,49 @@ export default function DashboardLayout({
           {children}
         </main>
       </div>
+
+      {/* Contact Modal */}
+      {contactOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 animate-in fade-in duration-200">
+          <div className="w-full max-w-md glass-panel rounded-3xl p-6 relative flex flex-col gap-5 border border-border/60 shadow-2xl animate-in zoom-in-95 duration-200">
+            <button 
+              onClick={() => setContactOpen(false)}
+              className="absolute top-4 right-4 h-8 w-8 rounded-full hover:bg-secondary/85 text-muted-foreground hover:text-foreground flex items-center justify-center cursor-pointer transition-colors border-none bg-transparent"
+            >
+              <X className="h-4 w-4" />
+            </button>
+
+            <div className="flex flex-col gap-2 items-center text-center mt-2">
+              <div className="h-12 w-12 rounded-2xl bg-primary/10 flex items-center justify-center text-primary mb-2 shadow-inner">
+                <Mail className="h-6 w-6" />
+              </div>
+              <h3 className="text-lg font-bold text-foreground">İletişim & Destek</h3>
+              <p className="text-xs text-muted-foreground max-w-xs leading-relaxed">
+                Herhangi bir soru, öneri, hata bildirimi veya iş birliği için bana her zaman aşağıdaki e-posta adresinden ulaşabilirsiniz.
+              </p>
+            </div>
+
+            <div className="flex flex-col gap-1.5 p-4 rounded-2xl bg-secondary/15 border border-border/40 text-center">
+              <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-wider">E-Posta Adresi</span>
+              <a 
+                href="mailto:heyonurgoc@yandex.com" 
+                className="text-sm font-extrabold text-primary hover:underline flex items-center justify-center gap-1.5"
+              >
+                heyonurgoc@yandex.com
+              </a>
+            </div>
+
+            <div className="flex gap-3 justify-end mt-2">
+              <Button 
+                onClick={() => setContactOpen(false)}
+                className="w-full bg-secondary text-secondary-foreground border border-border hover:bg-secondary/80 font-bold rounded-xl h-11 transition-all flex items-center justify-center cursor-pointer"
+              >
+                Kapat
+              </Button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
