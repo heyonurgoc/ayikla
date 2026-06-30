@@ -25,12 +25,12 @@ export default function AyarlarPage() {
 
   // Appearance states
   const [glassEffect, setGlassEffect] = useState(true);
-  const [accentColor, setAccentColor] = useState('purple');
+  const [accentColor, setAccentColor] = useState('mono');
 
   // Load saved accent color and glassmorphism on mount
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      const savedAccent = localStorage.getItem('ayikla_accent_color') || 'purple';
+      const savedAccent = localStorage.getItem('ayikla_accent_color') || 'mono';
       setAccentColor(savedAccent);
       const savedGlass = localStorage.getItem('ayikla_glass_effect') !== 'false';
       setGlassEffect(savedGlass);
@@ -244,7 +244,8 @@ export default function AyarlarPage() {
                     <span className="text-xs font-semibold text-foreground">Arayüz Vurgu Rengi</span>
                     <div className="flex gap-3 mt-1">
                       {[
-                        { id: 'purple', class: 'bg-purple-600', name: 'Mor (Varsayılan)' },
+                        { id: 'mono', class: 'bg-zinc-950 dark:bg-white border border-border/40', name: 'Siyah Beyaz (Varsayılan)' },
+                        { id: 'purple', class: 'bg-purple-600', name: 'Mor' },
                         { id: 'blue', class: 'bg-blue-600', name: 'Mavi' },
                         { id: 'emerald', class: 'bg-emerald-600', name: 'Zümrüt Yeşili' },
                         { id: 'amber', class: 'bg-amber-600', name: 'Turuncu' }

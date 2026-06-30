@@ -24,8 +24,8 @@ export default function RootLayout({
       <head>
         <script dangerouslySetInnerHTML={{ __html: `
           try {
-            const accent = localStorage.getItem('ayikla_accent_color');
-            if (accent) document.documentElement.setAttribute('data-accent', accent);
+            const accent = localStorage.getItem('ayikla_accent_color') || 'mono';
+            document.documentElement.setAttribute('data-accent', accent);
             const glass = localStorage.getItem('ayikla_glass_effect');
             if (glass === 'false') document.documentElement.setAttribute('data-glass-disabled', 'true');
           } catch (e) {}
