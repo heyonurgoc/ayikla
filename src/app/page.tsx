@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ShieldCheck, EyeOff, Sparkles, ArrowRight, Activity, Search, ShieldAlert } from 'lucide-react';
 
 export default function Home() {
@@ -10,14 +11,24 @@ export default function Home() {
 
       {/* Navbar */}
       <header className="sticky top-0 z-50 glass-panel border-b border-border/50 py-4 px-6 md:px-12 flex justify-between items-center">
-        <div className="flex items-center gap-2">
-          <div className="h-10 w-10 rounded-xl bg-gradient-premium flex items-center justify-center shadow-lg shadow-primary/20">
-            <Search className="h-5 w-5 text-white" />
-          </div>
-          <span className="text-xl font-bold tracking-tight text-foreground">
-            AYIKLA
-          </span>
-        </div>
+        <Link href="/" className="flex items-center gap-2">
+          <Image
+            src="/ayikla_black.png"
+            alt="AYIKLA"
+            width={100}
+            height={36}
+            className="dark:hidden block object-contain"
+            priority
+          />
+          <Image
+            src="/ayikla_white.png"
+            alt="AYIKLA"
+            width={100}
+            height={36}
+            className="dark:block hidden object-contain"
+            priority
+          />
+        </Link>
         <nav className="flex items-center gap-4">
           <Link
             href="/login"

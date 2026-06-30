@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname, useRouter } from 'next/navigation';
 import { services } from '@/services';
 import { User, Notification } from '@/types';
@@ -136,13 +137,25 @@ export default function DashboardLayout({
       <aside className="hidden md:flex flex-col w-64 border-r border-border/60 bg-card/45 backdrop-blur-md sticky top-0 h-screen z-30">
         {/* Brand Header */}
         <div className="h-16 px-6 border-b border-border/60 flex items-center gap-3">
-          <div className="h-8 w-8 rounded-lg bg-gradient-premium flex items-center justify-center shadow-md shadow-primary/10">
-            <Search className="h-4 w-4 text-white" />
-          </div>
-          <span className="font-extrabold tracking-tight text-lg text-foreground">
-            AYIKLA
-          </span>
-          <span className="text-[10px] bg-primary/15 text-primary border border-primary/20 font-bold px-1.5 py-0.5 rounded-md uppercase">
+          <Link href="/dashboard" className="flex items-center gap-2">
+            <Image
+              src="/ayikla_black.png"
+              alt="AYIKLA"
+              width={100}
+              height={36}
+              className="dark:hidden block object-contain"
+              priority
+            />
+            <Image
+              src="/ayikla_white.png"
+              alt="AYIKLA"
+              width={100}
+              height={36}
+              className="dark:block hidden object-contain"
+              priority
+            />
+          </Link>
+          <span className="text-[10px] bg-primary/15 text-primary border border-primary/20 font-bold px-1.5 py-0.5 rounded-none uppercase">
             BETA
           </span>
         </div>
@@ -210,12 +223,24 @@ export default function DashboardLayout({
           <div className="w-64 bg-card border-r border-border flex flex-col h-full animate-in slide-in-from-left duration-200">
             {/* Mobile Sidebar Header */}
             <div className="h-16 px-6 border-b border-border flex justify-between items-center">
-              <div className="flex items-center gap-3">
-                <div className="h-8 w-8 rounded-lg bg-gradient-premium flex items-center justify-center">
-                  <Search className="h-4 w-4 text-white" />
-                </div>
-                <span className="font-extrabold tracking-tight text-lg">AYIKLA</span>
-              </div>
+              <Link href="/dashboard" className="flex items-center gap-3">
+                <Image
+                  src="/ayikla_black.png"
+                  alt="AYIKLA"
+                  width={100}
+                  height={36}
+                  className="dark:hidden block object-contain"
+                  priority
+                />
+                <Image
+                  src="/ayikla_white.png"
+                  alt="AYIKLA"
+                  width={100}
+                  height={36}
+                  className="dark:block hidden object-contain"
+                  priority
+                />
+              </Link>
               <Button
                 variant="ghost"
                 size="icon"
