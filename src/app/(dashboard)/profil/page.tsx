@@ -155,14 +155,14 @@ export default function ProfilPage() {
             </h4>
             <div className="flex justify-between items-baseline">
               <span className="text-2xl font-black text-foreground">{user?.analysisUsed || 0}</span>
-              <span className="text-xs text-muted-foreground">/ {user?.analysisLimit || 50} sorgu</span>
+              <span className="text-xs text-muted-foreground">/ ∞ sorgu</span>
             </div>
             <Progress 
-              value={user ? (user.analysisUsed / user.analysisLimit) * 100 : 0} 
+              value={0} 
               className="h-2 bg-secondary/80 rounded-full [&>div]:bg-gradient-premium"
             />
             <p className="text-[10px] text-muted-foreground leading-normal">
-              Aylık sorgu sınırınızın %{user ? Math.round((user.analysisUsed / user.analysisLimit) * 100) : 0} kadarı dolduruldu.
+              Sınırsız sorgu hakkınız bulunmaktadır.
             </p>
           </Card>
         </div>

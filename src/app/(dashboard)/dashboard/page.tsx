@@ -208,16 +208,16 @@ export default function DashboardPage() {
               <TrendingUp className="h-4 w-4 text-primary" />
             </CardDescription>
             <CardTitle className="text-3xl font-extrabold mt-1">
-              {user?.analysisUsed || 0} <span className="text-sm font-medium text-muted-foreground">/ {user?.analysisLimit || 50}</span>
+              {user?.analysisUsed || 0} <span className="text-sm font-medium text-muted-foreground">/ ∞</span>
             </CardTitle>
           </CardHeader>
           <CardContent className="flex flex-col gap-2">
             <Progress 
-              value={user ? (user.analysisUsed / user.analysisLimit) * 100 : 0} 
+              value={0} 
               className="h-1.5 bg-secondary/80 [&>div]:bg-gradient-premium"
             />
             <p className="text-[10px] text-muted-foreground">
-              Aylık analiz yenilenme tarihine son 14 gün kaldı.
+              Sınırsız analiz hakkınız bulunmaktadır.
             </p>
           </CardContent>
         </Card>
